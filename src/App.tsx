@@ -10,10 +10,12 @@ import {
   IonTabs
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { ellipse, square, triangle, ellipseOutline, triangleOutline, squareOutline } from 'ionicons/icons';
+import { ellipseOutline, triangleOutline, squareOutline } from 'ionicons/icons';
 import ListMigraines from './pages/ListMigraines';
 import AddMigraine from './pages/AddMigraine';
 import Highlights from './pages/Highlights';
+
+//comment to test
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';

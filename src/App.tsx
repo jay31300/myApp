@@ -17,6 +17,9 @@ import Highlights from './pages/Highlights';
 
 //comment to test
 
+
+//comment again 2
+
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
 
